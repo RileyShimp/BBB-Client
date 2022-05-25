@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding-top: 20px;
+}
+
+body{
+  background-color: aqua;
+}
+
+.NewWordContainer img {
+  width: 100%;
+}
+
+.NewWordContainer{
+  padding-top: 80px;
+}
+
+.navBar {
+  display: flex;
+  justify-content: center;
+}
+
+.game img{
+  cursor: pointer;
+}
+
+.flashCardImage img{
+  width: 300px
+}
